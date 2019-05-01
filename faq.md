@@ -12,8 +12,8 @@ A: Now that you are logged in:
 A: Yes, every device has different shortcuts, here are some tips:
 - __Scroll:__ Use two fingers on the trackpad to scroll.
 - __Right Click:__ Press two fingers on the trackpad.
-- __Screen Capture:__ Whole screen; Ctrl + window switch key. Part of a screen; Ctrl + Shift + window switch key.
-- __Lock Your Screen:__ Press Search Key + L
+- __Screen Capture:__ _Whole screen_; Ctrl + ![overview](https://lh3.googleusercontent.com/2s0vAnL4JzUfgBxlaRHkzTpYqy9YrFU_4WmcfX28Dn2nY-dcY-XPS73CBXdxLpmDtcY=w18-h18) or ( Ctrl + F5). _Part of a screen_; Ctrl + Shift + ![overview](https://lh3.googleusercontent.com/2s0vAnL4JzUfgBxlaRHkzTpYqy9YrFU_4WmcfX28Dn2nY-dcY-XPS73CBXdxLpmDtcY=w18-h18) or ( Ctrl + + Shift + F5).
+- __Lock Your Screen:__ Press ![Search](https://lh3.googleusercontent.com/pogZYXjvgIboIJEQcrDE3dKv_cC14nQu55NOEALnlMuLPRLJhOBR6rzCpEyoIzOdfAE=w18-h18) + L or (Search Key + L)
 - __To See All Key Commands:__ Ctrl + Alt + ?
 
 ## Q: How do I print?
