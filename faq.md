@@ -2,7 +2,7 @@
 A: Now that you are logged in:
 - Launch any Apps from the Launcher, the circle in the bottom left.
 - Pin any frequently used Apps like Gmail to the Shelf(the bar at the bottom of the screen).
-  - __How__ to Pin: Open the Launcher. Find the app you want, right click and select Pin to shelf.
+  - __How to Pin:__ Open the Launcher. Find the app you want, right click and select Pin to shelf.
 - Click on the bottom right corner to find:
   - Settings
   - Network
@@ -17,8 +17,7 @@ A: Yes, every device has different shortcuts, here are some tips:
 - __To See All Key Commands:__ Ctrl + Alt + ?
 
 ## Q: How do I print?
-A: Review how to [Install Google Cloud Print] (https://whirlpool.service-now.com/kb_view.do?sys_kb_id=833636860f19ab8c2f555d78a1050e74&sysparm_rank=5&sysparm_tsqueryId=a71d8d1bdb453384175ef698f49619ce) and [Using Google Cloud Print.] (https://whirlpool.service-now.com/kb_view.do?sys_kb_id=ea3636860f19ab8c2f555d78a1050e11&sysparm_rank=2&sysparm_tsqueryId=a71d8d1bdb453384175ef698f49619ce)
-
+A: Review how to [Install Google Cloud Print](https://whirlpool.service-now.com/kb_view.do?sys_kb_id=833636860f19ab8c2f555d78a1050e74&sysparm_rank=5&sysparm_tsqueryId=a71d8d1bdb453384175ef698f49619ce) and [Using Google Cloud Print.](https://whirlpool.service-now.com/kb_view.do?sys_kb_id=ea3636860f19ab8c2f555d78a1050e11&sysparm_rank=2&sysparm_tsqueryId=a71d8d1bdb453384175ef698f49619ce)
 
 ## Q: How do I connect to Wireless (WiFi)?
 A: Connecting to WiFi depends on your location:
