@@ -25,7 +25,7 @@ A: Connecting to WiFi depends on your location:
 - __To connect to WiFi at home or hotel:__  Click on the wifi logo in the bottom right-hand side of your screen, choose their WiFi network, follow any prompts and off you go! Check out this [Google Support Doc](https://support.google.com/chromebook/answer/1047420?hl=en) for help. 
 
 ## Q: Do I need to use a VPN?
-A: If your traveling and cannot access a Whirlpool internal website then a VPN connection is needed. Look at the links below on how to use the VPN:
+A: If you are traveling and cannot access a Whirlpool internal website then a VPN connection is needed. Look at the links below on how to use the VPN:
 - [GlobalProtect VPN Instructions](https://whirlpool.service-now.com/kb_view.do?sys_kb_id=3d25022edbd9fec005577ee5bf9619b4&sysparm_rank=1&sysparm_tsqueryId=6b7e50d7db49bf44175ef698f49619fe)
 - [GlobalProtect Video Example](https://drive.google.com/file/d/1tWrzy2agrBTF7r-oD3_abrJbTwM22VTP/view)  
 
