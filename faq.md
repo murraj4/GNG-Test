@@ -31,7 +31,8 @@ A: If your traveling and cannot access a Whirlpool internal website then a VPN c
 
 ## Q: How do I access SAP?
 A: You will need to launch Citrix Workspace to use myapps.whirlpool.com.
-- Go to the Chrome Web Store and search for [Citrix Workspace](https://chrome.google.com/webstore/detail/citrix-workspace/haiffjcadagjlijoggckpgfnoeiflnem?utm_source=chrome-ntp-icon).
+- Go to the Chrome Web Store and search for [Citrix Workspace](https://chrome.google.com/webstore/detail/citrix-workspace/haiffjcadagjlijoggckpgfnoeiflnem?utm_source=chrome-ntp-icon). 
+![CitrixWorkspace](CitrixWorkspace130px.png)
 - Select Citrix Workspace app and install it.
 - Once installed, you can open Citrix Workspace by clicking on the Launcher and then finding the Citrix Workspace icon.
 - The first time you access Citrix, you will have to enter the URL https://myapps.whirlpool.com/
