@@ -26,7 +26,7 @@ A: Connecting to WiFi depends on your location:
 
 ## Q: Do I need to use a VPN?
 A: If you are traveling and cannot access a Whirlpool internal website then a VPN connection is needed. Look at the links below on how to use the VPN:
-- [GlobalProtect VPN Instructions](https://whirlpool.service-now.com/kb_view.do?sys_kb_id=3d25022edbd9fec005577ee5bf9619b4&sysparm_rank=1&sysparm_tsqueryId=6b7e50d7db49bf44175ef698f49619fe)
+- [GlobalProtect VPN Instructions](https://whirlpool.service-now.com/kb_view.do?sys_kb_id=230fb223db017f84175ef698f4961935&sysparm_rank=6&sysparm_tsqueryId=716243a3dbc17f84175ef698f4961972)
 - [GlobalProtect Video Example](https://drive.google.com/file/d/1tWrzy2agrBTF7r-oD3_abrJbTwM22VTP/view)  
 
 ## Q: How do I access SAP?
