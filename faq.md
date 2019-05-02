@@ -22,7 +22,7 @@ A: Review how to [Install Google Cloud Print](https://whirlpool.service-now.com/
 ## Q: How do I connect to Wireless (WiFi)?
 A: Connecting to WiFi depends on your location:
 - __To connect to WiFi at a Whirlpool building:__ You’re automatically connected to Whirlpool’s UWLAN network any time you are at a Whirlpool facility.  
-- __To connect to WiFi at home or hotel:__  Click on the wifi logo in the bottom right-hand side of your screen, choose their WiFi network, follow any prompts and off you go! Check out this [Google Support Doc](https://support.google.com/chromebook/answer/1047420?hl=en) for help. 
+- __To connect to WiFi at home or hotel:__  Click on the WiFi logo in the bottom right-hand side of your screen, choose their WiFi network, follow any prompts and off you go! Check out this [Google Support Doc](https://support.google.com/chromebook/answer/1047420?hl=en) for help. 
 
 ## Q: Do I need to use a VPN?
 A: If you are traveling and cannot access a Whirlpool internal website then a VPN connection is needed. Look at the links below on how to use the VPN:
