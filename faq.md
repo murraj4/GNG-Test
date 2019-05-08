@@ -16,6 +16,9 @@ A: Yes, every device has different shortcuts, here are some tips:
 - __Lock Your Screen:__ Press ![Search](https://lh3.googleusercontent.com/pogZYXjvgIboIJEQcrDE3dKv_cC14nQu55NOEALnlMuLPRLJhOBR6rzCpEyoIzOdfAE=w18-h18) + L or (Search Key + L)
 - __To See All Key Commands:__ Ctrl + Alt + ?
 
+## Q: How do I get back my opened tabs?
+A: Open Chrome and press Ctrl + H to see the history of tabs you have opened on other devices to quickly get back to work.
+
 ## Q: How do I print?
 A: Review how to [Install Google Cloud Print](https://whirlpool.service-now.com/kb_view.do?sys_kb_id=833636860f19ab8c2f555d78a1050e74&sysparm_rank=5&sysparm_tsqueryId=a71d8d1bdb453384175ef698f49619ce) and [Using Google Cloud Print.](https://whirlpool.service-now.com/kb_view.do?sys_kb_id=ea3636860f19ab8c2f555d78a1050e11&sysparm_rank=2&sysparm_tsqueryId=a71d8d1bdb453384175ef698f49619ce)
 
